@@ -26,9 +26,9 @@ var config = {
      */
     imgs: {
         "祝可爱的赵京玥同学:":"./imgs/xiaokeai.png",
-        "愿君如月常圆满，岁岁流光扮君行":"./imgs/xiaokeai.png",
+        "愿君如月常圆满，岁岁流光扮君行":"./imgs/word.png",
         "桃李春风一杯酒，江湖夜雨十年灯":"./imgs/night.png",
-        "今朝生日至，愿尔梦飞扬":"./imgs/xiaokeai.png",
+        "今朝生日至，愿尔梦飞扬":"./imgs/clothes.png",
         "学业如春笋，节节向上长":"./imgs/icecream.png",
         "反正就是一天比一天开心":"./imgs/wutiaowu.png",
         "一天比一天漂亮":"./imgs/pencil.png",
